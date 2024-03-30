@@ -12,7 +12,7 @@ import { Employee } from './employees/entities/employee.entity';
       host: 'localhost',
       username: 'root',
       password: '',
-      database: 'hrSystem',
+      database: 'hrsystem',
       entities: [Employee],
       synchronize: true,
     }),
