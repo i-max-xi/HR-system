@@ -5,9 +5,6 @@ export class Employee {
   id: number;
 
   @Column()
-  avatar: string;
-
-  @Column()
   firstName: string;
 
   @Column()
@@ -15,9 +12,6 @@ export class Employee {
 
   @Column()
   email: string;
-
-  @Column()
-  password: string;
 
   @Column()
   position: string;
