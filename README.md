@@ -46,7 +46,7 @@ $ npm run start:prod
 ```
 
 
-### Backend
+### Frontend
 Access server for this project [here](https://github.com/i-max-xi/hr-system-frontend)
 
 
